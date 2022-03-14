@@ -1,0 +1,7 @@
+E:\_my Coding\Algorithms\Sorting\Sorting\Sorting\bin\Debug\Sorting.exe.config
+E:\_my Coding\Algorithms\Sorting\Sorting\Sorting\bin\Debug\Sorting.exe
+E:\_my Coding\Algorithms\Sorting\Sorting\Sorting\bin\Debug\Sorting.pdb
+E:\_my Coding\Algorithms\Sorting\Sorting\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+E:\_my Coding\Algorithms\Sorting\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+E:\_my Coding\Algorithms\Sorting\Sorting\Sorting\obj\Debug\Sorting.exe
+E:\_my Coding\Algorithms\Sorting\Sorting\Sorting\obj\Debug\Sorting.pdb
